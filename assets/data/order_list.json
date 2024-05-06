@@ -1,0 +1,24 @@
+{
+  "snacks": [
+    {
+      "name": "HBPlant",
+      "price": 4.29,
+      "imageUrl":"images/sandwich4.jpeg"
+    },
+    {
+      "name": "Bounce Tasty with Bacon",
+      "price": 6.59,
+      "imageUrl":"images/sandwich2.jpeg"
+    },
+    {
+      "name": "HBCrispy",
+      "price": 5.29,
+      "imageUrl":"images/sandwich3.jpeg"
+    },
+    {
+      "name": "HBMeal Deal",
+      "price": 10.29,
+      "imageUrl":"assets/images/sandwich_meal.jpeg"
+    }
+  ]
+}
